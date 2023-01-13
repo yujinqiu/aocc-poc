@@ -1,0 +1,4 @@
+namespace mynamespace
+{
+    void helloWorld();
+}
